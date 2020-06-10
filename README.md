@@ -1,5 +1,5 @@
 # Linguagem Markdown
- Aula de linguagem Markdow do Curso de Git e GitHub do Curso em Vídeo
+ Aula de linguagem Markdown do Curso de Git e GitHub do Curso em Vídeo
 *Estou*  _aprendendo_ ~~linguagem~~ __Markdown__  no Curso em Video e Git e GitHub.
 
 
@@ -85,16 +85,12 @@ Não entendi direito  o que eu fiz
 
 # Emojis:
 
-
-
 Olá, pequeno Gafanhoto 🖖 ✋  (dois pontos e o nome do emoji)
 💣 
 🐒 
 🐱 
 
-# Citações
 
-como diria @gustavoguanabara eu estou com sono
 
 
 
