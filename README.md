@@ -127,7 +127,7 @@ Todos os métodos acima apresentarão o mesmo resultado.
 
 # Imagens com link
 
-![Markdown](https://blog.apiki.com/wp-content/uploads/sites/2/2016/07/markdown. png)
+![Markdown](https://blog.apiki.com/wp-content/uploads/sites/2/2016/07/markdown.png)
 
 ![GOOGLE](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
