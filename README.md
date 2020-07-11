@@ -90,6 +90,59 @@ Olá, pequeno Gafanhoto 🖖 ✋  (dois pontos e o nome do emoji)
 🐒 
 🐱 
 
+# Quebras de Linha
+
+Nas poesias e nos versos, normalmente é preciso inserir quebras de linha. Isto é possível colocando dois espaços no final de cada linha.
+
+
+### NAVIO NEGREIRO
+#### Castro Alves
+
+'Stamos em pleno mar... Doudo no espaço  
+Brinca o luar — dourada borboleta;  
+E as vagas após ele correm... cansam  
+Como turba de infantes inquieta.
+
+'Stamos em pleno mar... Do firmamento  
+Os astros saltam como espumas de ouro...  
+O mar em troca acende as ardentias,  
+— Constelações do líquido tesouro...   
+
+'Stamos em pleno mar... Dois infinitos  
+Ali se estreitam num abraço insano,  
+Azuis, dourados, plácidos, sublimes...  
+Qual dos dous é o céu? qual o oceano?...  
+
+...
+
+# Linhas horizontais
+
+Para criar linhas horizontais, coloca-se três ou mais asteriscos, hífens ou sublinhados em uma linha sem mais nada.
+
+***
+---------
+____
+
+Todos os métodos acima apresentarão o mesmo resultado.
+
+# Imagens com link
+
+![Markdown](https://blog.apiki.com/wp-content/uploads/sites/2/2016/07/markdown. png)
+
+![GOOGLE](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
